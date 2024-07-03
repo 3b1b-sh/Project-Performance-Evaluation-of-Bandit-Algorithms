@@ -2,4 +2,4 @@
 
 ShanghaiTech 2023 Fall Project:Project: Performance Evaluation of Bandit Algorithms
 
-**@inproceedings{ title={Project-Performance-Evaluation-of-Bandit-Algorithms}, author={Gubin Hu, Jierui Xu, Yufei Liu}, year={2024}}**
+This is a report on the study of multi-bandit using the knowledge of Probability and Reinforcement Learning. In this report, we implement several classical bandit algorithms: $\epsilon-greedy$, $UCB$, $Thompson \ Sampling$, and our own designed Bayesian Bandit algorithms to evaluate their performance via numerical comparison, and finally gain inspiring intuition.
